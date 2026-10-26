@@ -4,10 +4,17 @@
     <title>Commodity &amp; Futures Trading Alpha Hub</title>
     <link>https://futures-commodities-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:52:36 GMT</lastBuildDate>
     <atom:link href="https://futures-commodities-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                            <item>
+                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Ethereum Research Forum (Forum)</title>
+      <link>https://ethresear.ch</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261026-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:52:36 GMT</pubDate>
+      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Crypto News &amp; Alpha Channel (Telegram)</title>
       <link>https://t.me/cryptonews</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-telegram-20261025-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:05:24 GMT</pubDate>
       <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Automated trading systems, backtesting frameworks, API connectivity, and statistical arbitrage strategies.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Futures Trading &amp; Micro Contracts (Reddit)</title>
-      <link>https://www.reddit.com/r/FuturesTrading/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:05:37 GMT</pubDate>
-      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Dedicated discussions on ES, NQ, and CL futures, prop evaluation drawdown rules, and contract specifications.</description>
     </item>
   </channel>
 </rss>
