@@ -4,10 +4,17 @@
     <title>Commodity &amp; Futures Trading Alpha Hub</title>
     <link>https://futures-commodities-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:52:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:06:19 GMT</lastBuildDate>
     <atom:link href="https://futures-commodities-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20261027-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:06:19 GMT</pubDate>
+      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Ethereum Research Forum (Forum)</title>
       <link>https://ethresear.ch</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:06:06 GMT</pubDate>
       <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Chart indicators, Pine Script v5 development, alert webhooks, and multi-timeframe technical analysis setups.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Algorithmic &amp; Quantitative Trading (Reddit)</title>
-      <link>https://www.reddit.com/r/algotrading/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:05:24 GMT</pubDate>
-      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Automated trading systems, backtesting frameworks, API connectivity, and statistical arbitrage strategies.</description>
     </item>
   </channel>
 </rss>
