@@ -4,10 +4,17 @@
     <title>Commodity &amp; Futures Trading Alpha Hub</title>
     <link>https://futures-commodities-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:05:45 GMT</lastBuildDate>
     <atom:link href="https://futures-commodities-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261103-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:45 GMT</pubDate>
+      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-telegram-20261102-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:06:02 GMT</pubDate>
       <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Support/resistance zones, moving average confluence, RSI divergences, and candlestick price action.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Swing Trading &amp; Trend Following (Reddit)</title>
-      <link>https://www.reddit.com/r/SwingTrading/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-reddit-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:29:56 GMT</pubDate>
-      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Multi-day trend following, Fibonacci retracements, daily support bounces, and position sizing.</description>
     </item>
   </channel>
 </rss>
