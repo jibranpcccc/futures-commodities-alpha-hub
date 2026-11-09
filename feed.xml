@@ -4,10 +4,17 @@
     <title>Commodity &amp; Futures Trading Alpha Hub</title>
     <link>https://futures-commodities-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 06:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:55:50 GMT</lastBuildDate>
     <atom:link href="https://futures-commodities-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261103-1-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:55:50 GMT</pubDate>
+      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261103-1-2026-11-08</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-discord-20261010-1-2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 06:05:35 GMT</pubDate>
       <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Real-time session opens (London/NY), liquidity sweep analysis, and currency correlation heatmaps.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Prop Trading Firms Evaluation Hub (Discord)</title>
-      <link>https://discord.gg/trading</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-discord-20261009-1-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 06:06:04 GMT</pubDate>
-      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Dedicated to passing prop firm challenges, drawdown calculators, payout proofs, and evaluation guidelines.</description>
     </item>
   </channel>
 </rss>
