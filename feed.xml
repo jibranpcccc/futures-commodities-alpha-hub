@@ -4,10 +4,17 @@
     <title>Commodity &amp; Futures Trading Alpha Hub</title>
     <link>https://futures-commodities-alpha-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:51:44 GMT</lastBuildDate>
     <atom:link href="https://futures-commodities-alpha-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261103-1-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:51:44 GMT</pubDate>
+      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-forum-20261103-1-2026-11-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-telegram-20261017-1-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 06:05:38 GMT</pubDate>
       <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Top community published charts, script releases, algorithmic backtests, and indicator updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Forex Technical Analysis &amp; Key Levels (Telegram)</title>
-      <link>https://t.me/forextrading</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/futures-commodities-alpha-hub/#futures-commodities-alpha-hub-telegram-20261016-1-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 06:05:44 GMT</pubDate>
-      <description>Newly verified community added to Commodity &amp; Futures Trading Alpha Hub: Daily technical breakdowns of EURUSD, GBPUSD, USDJPY, and XAUUSD gold key support and resistance.</description>
     </item>
   </channel>
 </rss>
